@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyHttpCet</string>
+    <string name="http_get">HTTP-GET</string>
+</resources>
